@@ -1,16 +1,23 @@
-### Hi there 👋
+# Junior Data Scientist, SAP Consultant (FI, MM, SD, TM, BRIM) and financial accountant
+## Junior Data scientist
+### Core competencies:
+1. Python 2, 3;
+2. SQL.
 
-<!--
-**astaticmass/astaticmass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SAP consultant
+### Core competencies:
+1. Financial accounting;
+2. Material Management;
+3. Sales and Distribution;
+4. Transportation Management;
+5. Billing and Revenue Innovation Management.
 
-Here are some ideas to get you started:
+## Financial Accountant
+### Core competencies:
+1. Accounts Receivable;
+2. Accounts Payable;
+3. Cash Management;
+4. Controlling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+[@astaticmass](http://t.me/astaticmass)
